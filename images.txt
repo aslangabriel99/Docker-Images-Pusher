@@ -1,1 +1,1 @@
-nickmilleriit/cap3:20180115
+streptomyces/signalp:latest

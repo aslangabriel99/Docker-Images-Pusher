@@ -1,1 +1,1 @@
-pegi3s/entrez-direct:latest
+biocontainers/biocontainers:debian-buster-backports_cv2

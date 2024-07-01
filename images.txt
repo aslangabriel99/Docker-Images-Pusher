@@ -1,1 +1,1 @@
-streptomyces/signalp:latest
+openzyme/colabdesign:latest

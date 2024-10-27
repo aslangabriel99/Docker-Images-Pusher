@@ -1,1 +1,1 @@
-openzyme/colabdesign:latest
+staphb/plasmidfinder:latest

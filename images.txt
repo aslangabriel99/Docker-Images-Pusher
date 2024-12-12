@@ -1,1 +1,1 @@
-gromacs/gromacs:2022.2
+proteowizard/pwiz-skyline-i-agree-to-the-vendor-licenses:latest

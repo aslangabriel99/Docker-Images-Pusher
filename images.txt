@@ -1,1 +1,1 @@
-hwcopeland/autodocker-vina:latest
+gromacs/gromacs:2022.2

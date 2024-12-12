@@ -1,1 +1,1 @@
-anubhav0fnu/mzmine:latest
+pegi3s/pymol:latest

@@ -1,1 +1,1 @@
-staphb/plasmidfinder:latest
+hwcopeland/autodocker-vina:latest

@@ -1,1 +1,1 @@
-pegi3s/pymol:latest
+proteinphysiologylab/frustrapocket:latest
